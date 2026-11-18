@@ -3,7 +3,7 @@
 
 Welcome to my C Programming repository!
 
-I'm learning C programming and building my coding skills through practical programs.
+This repository contains my C programming practice programs as I begin learning the language.
 
 ## 📂 Programs
 
