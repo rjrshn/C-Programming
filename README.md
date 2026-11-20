@@ -12,6 +12,10 @@ This repository contains my C programming practice programs as I begin learning 
 | 1 | HelloWorld_and_Variables.c | Variables & Output |
 | 2 | Arithmetic_Operators.c | Arithmetic Operators |
 | 3 | floatdatatype.c | Float Data Type |
+| 4 | AreaofCircle.c  | Area of Circle |
+| 5 | percentage.c | Calculation of Percentage |
+| 6 | AreaofCircleUsingInput.c | Area of Circle Using Input |
+
 
 ## 🛠️ Tools Used
 - C Programming
