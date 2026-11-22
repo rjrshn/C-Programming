@@ -18,6 +18,10 @@ This repository contains my C programming practice programs as I begin learning 
 | 7 | SumofTwoNum.c| Sum of Two Number Using Input |
 | 8 | SimpleIntrest.c | Calculate  Simple Intrest Using Input |
 | 9 | Remainder.c | Remainder |
+|10 | printfractionalpart.c | Printing Fractional Part |
+|11 | hierarchy.c| Hierchy|
+|12 | ASCII_charactersticbasic.c|   ASCII Values |
+
 
 
 ## 🛠️ Tools Used
