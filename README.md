@@ -21,6 +21,9 @@ This repository contains my C programming practice programs as I begin learning 
 |10 | printfractionalpart.c | Printing Fractional Part |
 |11 | hierarchy.c| Hierchy|
 |12 | ASCII_charactersticbasic.c|   ASCII Values |
+| 13 |divisibleby5.c| Numbers divisible By 5|
+| 14 |LeapYearorNot.c| Find it's leap year or not|
+| 15 |oddeven.c| Find whether it's odd or even|
 
 
 
